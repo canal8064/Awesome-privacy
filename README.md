@@ -7,6 +7,8 @@ Collection of services/software that are for the most part privacy respecting an
 
 ### Private Browsers
 
+### Browser Extensions
+
 ### Private Search engines
 
 ### Privacy Email
