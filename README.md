@@ -5,29 +5,30 @@ Collection of services/software that are for the most part privacy respecting an
 
 ### DNS
 
-### Private Browsers
+### Private-Browsers
 
-### Browser Extensions
+### Browser-Extensions
 
-### Private Search engines
+### Private-Search-Engines
 
-### Privacy Email
+### Privacy-Email
 
-### Password Managers
+### Password-Managers
 
-### Instant Messaging
+### Instant-Messaging
 
-### File Encryption Software
+### File-Encryption-Software
 
-### Torrent clients
+### Torrent-Clients
 
-### Disk cleaners
+### Disk-Cleaners
 
-### Improve Windows Privacy
+### Operating-System
 
-### Operating System
+### Improve-Windows-Privacy
 
-# [VPNs](https://github.com/trying559/Internet-privacy-guide#vpns):
+
+# [VPNs](https://github.com/trying559/Internet-privacy-guide#VPNs):
 
 - [Mullvad VPN](https://mullvad.net/) - $5/M , No-log policy , XMR/BTC/CASH and other
 
@@ -47,7 +48,7 @@ Collection of services/software that are for the most part privacy respecting an
 
 - [Cloudflare](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/) - Commercial; free , Some logs
 
-# [Private Browsers](https://github.com/trying559/Internet-privacy-guide#Privatebrowsers):
+# [Private Browsers](https://github.com/trying559/Internet-privacy-guide#Private-Browsers):
 
 - Find out the right one for you on [privacytests](https://privacytests.org/)
 
@@ -61,7 +62,7 @@ Collection of services/software that are for the most part privacy respecting an
 
 - [LibreWolf](https://librewolf.net/)  Open source , Gecko engine , Avaiable in Win/MacOS/Linux
 
-# [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#Browser Extensions):
+# [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#Browser-Extensions):
 
 - [uBlock Origin](https://ublockorigin.com/) - Block ads, tracking, malware, and more.
 - [Noscript](https://noscript.net/getit/) - Javascript blocker
@@ -69,12 +70,12 @@ Collection of services/software that are for the most part privacy respecting an
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Ensures that the websites you visit use TLS/SSL
 - [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - Switch the user agent of the browser.
 
-# [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#):
-# [Privacy Email](https://github.com/trying559/Internet-privacy-guide#):
-# [Password Managers](https://github.com/trying559/Internet-privacy-guide#):
-# [Instant Messaging](https://github.com/trying559/Internet-privacy-guide#):
-# [File Encryption](https://github.com/trying559/Internet-privacy-guide#):
-# [Torrent Clients](https://github.com/trying559/Internet-privacy-guide#):
-# [Disk Cleaners](https://github.com/trying559/Internet-privacy-guide#):
-# [Improve Windows Privacy](https://github.com/trying559/Internet-privacy-guide#):
-# [Operating Systems](https://github.com/trying559/Internet-privacy-guide#):
+# [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#Private-Search-Engines):
+# [Privacy Email](https://github.com/trying559/Internet-privacy-guide#Privacy-Email):
+# [Password Managers](https://github.com/trying559/Internet-privacy-guide#Password-Managers):
+# [Instant Messaging](https://github.com/trying559/Internet-privacy-guide#Instant-Messaging):
+# [File Encryption](https://github.com/trying559/Internet-privacy-guide#File-Encryption-Software):
+# [Torrent Clients](https://github.com/trying559/Internet-privacy-guide#Torrent-Clients):
+# [Disk Cleaners](https://github.com/trying559/Internet-privacy-guide#Disk-Cleaners):
+# [Operating Systems](https://github.com/trying559/Internet-privacy-guide#Operating-System):
+# [Improve Windows Privacy](https://github.com/trying559/Internet-privacy-guide#Improve-Windows-Privacy):
