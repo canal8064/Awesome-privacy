@@ -49,6 +49,8 @@ Collection of services/software that are for the most part privacy respecting an
 
 # [Private Browsers](https://github.com/trying559/Internet-privacy-guide#Privatebrowsers):
 
+- Find out the right one for you in [privacytests](https://privacytests.org/)
+
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source , Gecko engine , Avaiable in all platforms
 
 - [Brave](https://brave.com/)  Open source , Blink engine , Avaiable in all platforms
@@ -59,5 +61,13 @@ Collection of services/software that are for the most part privacy respecting an
 
 - [LibreWolf](https://librewolf.net/)  Open source , Gecko engine , Avaiable in Win/MacOS/Linux
 
-- [Privacy Tests to find out the right one for you](https://privacytests.org/)
-
+# [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#):
+# [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#):
+# [Privacy Email](https://github.com/trying559/Internet-privacy-guide#):
+# [Password Managers](https://github.com/trying559/Internet-privacy-guide#):
+# [Instant Messaging](https://github.com/trying559/Internet-privacy-guide#):
+# [File Encryption](https://github.com/trying559/Internet-privacy-guide#):
+# [Torrent Clients](https://github.com/trying559/Internet-privacy-guide#):
+# [Disk Cleaners](https://github.com/trying559/Internet-privacy-guide#):
+# [Improve Windows Privacy](https://github.com/trying559/Internet-privacy-guide#):
+# [Operating Systems](https://github.com/trying559/Internet-privacy-guide#):
