@@ -47,15 +47,15 @@ Collection of services/software that are mostly privacy respecting
 
 # [Private Browsers](https://github.com/trying559/Internet-privacy-guide#Privatebrowsers):
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source , Gecko engine , Avaiable in all platforms
 
-- [Brave](https://brave.com/)
+- [Brave](https://brave.com/)  Open source , Blink engine , Avaiable in all platforms
 
-- [Tor](https://www.torproject.org/)
+- [Tor](https://www.torproject.org/)  Open source , Gecko engine , Avaiable in all platforms
 
-- [Mullvad Browser](https://mullvad.net/en/download/browser/) 
+- [Mullvad Browser](https://mullvad.net/en/download/browser/)  Open source , Gecko engine , Avaiable in Win/MacOS/Linux
 
-- [LibreWolf](https://librewolf.net/)
+- [LibreWolf](https://librewolf.net/)  Open source , Gecko engine , Avaiable in Win/MacOS/Linux
 
 - [Privacy Tests to find out the right one for you](https://privacytests.org/)
 
