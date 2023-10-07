@@ -1,14 +1,14 @@
 # **Internet-privacy-guide**
 
-### Best VPNs for Privacy
+### VPNs
 
-### Best Encrypted DNS providers
+### DNS
 
 ### Private Browsers
 
 ### Private Search engines
 
-### Privacy Email providers
+### Privacy Email
 
 ### Password Managers
 
@@ -23,3 +23,5 @@
 ### Improve Windows Privacy
 
 ### Operating System
+
+
