@@ -1,5 +1,5 @@
 # **Internet-privacy-guide**
-Collection of services/software that are mostly privacy respecting
+Collection of services/software that are for the most part privacy respecting and are open source.
 
 ### VPNs
 
