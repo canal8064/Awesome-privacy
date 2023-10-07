@@ -30,11 +30,13 @@ Collection of services/software that are for the most part privacy respecting an
 
 # [VPNs](https://github.com/trying559/Internet-privacy-guide#VPNs):
 
-- [Mullvad VPN](https://mullvad.net/) - $5/M , No-log policy , XMR/BTC/CASH and other
+- [Mullvad VPN](https://mullvad.net/) - $5/M , No-log policy , XMR/BTC/CASH and other, Available in all platforms
 
-- [IVPN](https://ivpn.net) - $6/M , No-log policy , XMR/BTC/CASH and other
+- [Air VPN](https://airvpn.org/) - $7/M , No-log policy , XMR/BTC/CASH and other, Available in all platforms
 
-- [ProtonVPN](https://protonvpn.com/) - $5/M , No-log policy , BTC and other
+- [IVPN](https://ivpn.net) - $6/M , No-log policy , XMR/BTC/CASH and other, Available in all platforms
+
+- [ProtonVPN](https://protonvpn.com/) - $5/M , No-log policy , BTC and other, Available in all platforms
 
 # [DNS](https://github.com/trying559/Internet-privacy-guide#DNS):
 
