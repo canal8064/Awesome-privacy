@@ -63,11 +63,11 @@ Collection of services/software that are for the most part privacy respecting an
 
 # [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#Browser Extensions):
 
-- [uBlock Origin](https://ublockorigin.com/)
-- [Noscript](https://noscript.net/getit/)
-- [Privacy Badger](https://privacybadger.org/)
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
-- [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
+- [uBlock Origin](https://ublockorigin.com/) - Block ads, tracking, malware, and more.
+- [Noscript](https://noscript.net/getit/) - Javascript blocker
+- [Privacy Badger](https://privacybadger.org/) - Stops advertisers and third-party trackers from secretly tracking where you go.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Ensures that the websites you visit use TLS/SSL
+- [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - Switch the user agent of the browser.
 
 # [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#):
 # [Privacy Email](https://github.com/trying559/Internet-privacy-guide#):
