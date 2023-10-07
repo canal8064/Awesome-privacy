@@ -49,7 +49,7 @@ Collection of services/software that are for the most part privacy respecting an
 
 # [Private Browsers](https://github.com/trying559/Internet-privacy-guide#Privatebrowsers):
 
-- Find out the right one for you in [privacytests](https://privacytests.org/)
+- Find out the right one for you on [privacytests](https://privacytests.org/)
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source , Gecko engine , Avaiable in all platforms
 
@@ -61,7 +61,14 @@ Collection of services/software that are for the most part privacy respecting an
 
 - [LibreWolf](https://librewolf.net/)  Open source , Gecko engine , Avaiable in Win/MacOS/Linux
 
-# [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#):
+# [Browser Extensions](https://github.com/trying559/Internet-privacy-guide#Browser Extensions):
+
+- [uBlock Origin](https://ublockorigin.com/)
+- [Noscript](https://noscript.net/getit/)
+- [Privacy Badger](https://privacybadger.org/)
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+- [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
+
 # [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#):
 # [Privacy Email](https://github.com/trying559/Internet-privacy-guide#):
 # [Password Managers](https://github.com/trying559/Internet-privacy-guide#):
