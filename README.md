@@ -2,29 +2,17 @@
 Collection of services/software that are for the most part privacy respecting and are open source.
 
 ### VPNs
-
 ### DNS
-
 ### Private-Browsers
-
 ### Browser-Extensions
-
 ### Private-Search-Engines
-
 ### Privacy-Email
-
 ### Password-Managers
-
 ### Instant-Messaging
-
 ### File-Encryption-Software
-
 ### Torrent-Clients
-
 ### Disk-Cleaners
-
 ### Operating-System
-
 ### Improve-Windows-Privacy
 
 
