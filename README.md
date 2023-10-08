@@ -73,11 +73,38 @@ Collection of services/software that are for the most part privacy respecting an
 - [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - Switch the user agent of the browser.
 
 # [Private Search Engines](https://github.com/trying559/Internet-privacy-guide#Private-Search-Engines):
+
+- [Duduckgo](https://duckduckgo.com/) - "Never log IP addresses or any unique identifiers to disk"
+- [Startpage](https://www.startpage.com/) - "We don’t log your searches"
+- [Brave](https://search.brave.com/) - "What you say or type in the service is not logged or saved"
+- [SearX](https://searx.space/) - No logging IF self-hosted
 # [Privacy Email](https://github.com/trying559/Internet-privacy-guide#Privacy-Email):
+Keep in mind that E-MAIL is an insecure protocol by design and if you are looking for defnitive privacy you probably should not be using this protocol at all
+
+- [Tutanota](https://tutanota.com/) - Open source , Available on all platforms
+- [ProtonMail](https://proton.me/mail) - Open source , Available on all platforms
+- [SimpleLogin](https://simplelogin.io/) - Open source , Available on all platforms
+- [Skiffmail](https://skiff.com/mail) - Open source , Available on all platforms
 # [Password Managers](https://github.com/trying559/Internet-privacy-guide#Password-Managers):
+
+- [KeePassXC](https://keepassxc.org/) - Win/MacOS/Linux , No sync , Offline
+- [Vault](https://www.vaultproject.io/) - Win/MacOS/Linux , No sync , Offline
+- [Bitwarden](https://bitwarden.com/) - Available on all platforms, Sync , Cloud-based
+- [Lesspass](https://www.lesspass.com/#/) - Available on all platforms ,  No sync , Offline
+
 # [Instant Messaging](https://github.com/trying559/Internet-privacy-guide#Instant-Messaging):
+- [Session](https://getsession.org/) - Open source , Decentralized , Available on all platforms
+- [Signal](https://signal.org/) - Open source , Centralized , Available on all platforms
+- [Speek](https://speek.network/) -  Open source , Decentralized , Available on all platforms
+- [Briar](https://briarproject.org/) - Open source , Decentralized , Android
 # [File Encryption](https://github.com/trying559/Internet-privacy-guide#File-Encryption-Software):
+- [VeraCrypt](https://veracrypt.fr/en/Home.html)
+- [7-Zip](https://7-zip.org/)
+- [Cryptomator](https://cryptomator.org/)
 # [Torrent Clients](https://github.com/trying559/Internet-privacy-guide#Torrent-Clients):
+- []()
+- []()
+- []()
 # [Disk Cleaners](https://github.com/trying559/Internet-privacy-guide#Disk-Cleaners):
 # [Operating Systems](https://github.com/trying559/Internet-privacy-guide#Operating-System):
 # [Improve Windows Privacy](https://github.com/trying559/Internet-privacy-guide#Improve-Windows-Privacy):
