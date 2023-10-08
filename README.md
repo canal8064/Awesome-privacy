@@ -82,7 +82,7 @@ Collection of services/software that are for the most part privacy respecting an
 - [SearX](https://searx.space/) - No logging IF self-hosted
 
 # [Privacy Email](https://github.com/trying559/Internet-privacy-guide#Privacy-Email):
-Keep in mind that E-MAIL is an insecure protocol by design and if you are looking for defnitive privacy you probably should not be using this protocol at all
+Keep in mind that E-MAIL is an insecure protocol by design and if you are looking for definitive privacy you probably should not be using this protocol at all.
 
 - [Tutanota](https://tutanota.com/) - Open source , Available on all platforms
 
@@ -93,13 +93,13 @@ Keep in mind that E-MAIL is an insecure protocol by design and if you are lookin
 - [Skiffmail](https://skiff.com/mail) - Open source , Available on all platforms
 
 # [Password Managers](https://github.com/trying559/Internet-privacy-guide#Password-Managers):
-- [KeePassXC](https://keepassxc.org/) - Win/MacOS/Linux , No sync , Offline
+- [KeePassXC](https://keepassxc.org/) - Open source , Win/MacOS/Linux , No sync , Offline
 
-- [Vault](https://www.vaultproject.io/) - Win/MacOS/Linux , No sync , Offline
+- [Vault](https://www.vaultproject.io/) - Open source , Win/MacOS/Linux , No sync , Offline
 
-- [Bitwarden](https://bitwarden.com/) - Available on all platforms, Sync , Cloud-based
+- [Bitwarden](https://bitwarden.com/) - Open source , Available on all platforms, Sync , Cloud-based
 
-- [Lesspass](https://www.lesspass.com/#/) - Available on all platforms ,  No sync , Offline
+- [Lesspass](https://www.lesspass.com/#/) - Open source , Available on all platforms ,  No sync , Offline
 
 # [Instant Messaging](https://github.com/trying559/Internet-privacy-guide#Instant-Messaging):
 - [Session](https://getsession.org/) - Open source , Decentralized , Available on all platforms
@@ -111,11 +111,11 @@ Keep in mind that E-MAIL is an insecure protocol by design and if you are lookin
 - [Briar](https://briarproject.org/) - Open source , Decentralized , Android
 
 # [File Encryption](https://github.com/trying559/Internet-privacy-guide#File-Encryption-Software):
-- [VeraCrypt](https://veracrypt.fr/en/Home.html)
+- [VeraCrypt](https://veracrypt.fr/en/Home.html) - Open source , Win/MacOS/Linux
 
-- [7-Zip](https://7-zip.org/)
+- [7-Zip](https://7-zip.org/) Open source , Win/Linux
 
-- [Cryptomator](https://cryptomator.org/)
+- [Cryptomator](https://cryptomator.org/) - Open source , Available on all platforms
 
 # [Torrent Clients](https://github.com/trying559/Internet-privacy-guide#Torrent-Clients):
 - [qbittorrent](https://www.qbittorrent.org/) - Open Source , Win/MacOS/Linux
