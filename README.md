@@ -1,6 +1,7 @@
 # **Internet-privacy-guide**
-#### Collection of Services/Software/Websites that are open source and privacy respecting. (Not Clickable)
-#### I encourage everyone to use [libredirect](https://libredirect.github.io/) instances for everyday use. (Not Clickable)
+#### Collection of Services/Software/Websites that are open source and privacy respecting.
+
+I encourage everyone to use [libredirect](https://libredirect.github.io/) instances for everyday use.
 
 # [VPNs](https://github.com/trying559/Internet-privacy-guide#):
 - [Mullvad VPN](https://mullvad.net/) - $5/M , No-log policy , XMR/BTC/CASH and other, Available in all platforms
