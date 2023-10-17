@@ -28,6 +28,8 @@ I encourage everyone to use [libredirect](https://libredirect.github.io/) instan
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source , Gecko engine , Avaiable in all platforms
 
+- [Thorium](https://thorium.rocks/) - Open source, Blink engine, Win/MacOS/Linux
+
 - [Brave](https://brave.com/)  Open source , Blink engine , Avaiable in all platforms
 
 - [Tor](https://www.torproject.org/)  Open source , Gecko engine , Avaiable in all platforms
